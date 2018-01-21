@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shayan Sadigh on Shayan Sadigh</title>
+    <link>/</link>
+    <description>Recent content in Shayan Sadigh on Shayan Sadigh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kaggle Passenger Screening Challenge Solution</title>
+      <link>/project/kaggle/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/kaggle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denoising CNN for Realtime Path Tracing</title>
+      <link>/project/denoising/</link>
+      <pubDate>Sat, 21 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/denoising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hebbian Pruning</title>
+      <link>/project/hebbian/</link>
+      <pubDate>Sat, 21 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/hebbian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Simple Neural Network Module for Relational Reasoning (2017)</title>
+      <link>/talk/relation_network/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/talk/relation_network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Overview of Gradient Descent Optimization Algorithms (2016)</title>
+      <link>/talk/sgd/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/talk/sgd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring techniques for generating human-like responses on online forums with neural networks</title>
+      <link>/talk/seq2seq_reddit/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/talk/seq2seq_reddit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How I won 10th in a $1.5 million Kaggle Competition</title>
+      <link>/talk/kaggle/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/talk/kaggle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning classification over encrypted data (2015)</title>
+      <link>/talk/crypto_ml/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/talk/crypto_ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realtime Pathtracing with Neural Networks</title>
+      <link>/talk/pathtracing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/talk/pathtracing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter Sentiment Analysis with Neural Networks</title>
+      <link>/talk/twitter/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/talk/twitter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
