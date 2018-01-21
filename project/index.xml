@@ -39,5 +39,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Stacked Autoencoder in Pytorch</title>
+      <link>/project/stacked_ae/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/stacked_ae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reddit Seq2Seq Bot Inception</title>
+      <link>/project/reddit_seq/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/reddit_seq/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

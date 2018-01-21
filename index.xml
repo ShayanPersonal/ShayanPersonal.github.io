@@ -38,6 +38,15 @@
     </item>
     
     <item>
+      <title>Stacked Autoencoder in Pytorch</title>
+      <link>/project/stacked_ae/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/stacked_ae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Simple Neural Network Module for Relational Reasoning (2017)</title>
       <link>/talk/relation_network/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
@@ -97,6 +106,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>/talk/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reddit Seq2Seq Bot Inception</title>
+      <link>/project/reddit_seq/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/reddit_seq/</guid>
       <description></description>
     </item>
     

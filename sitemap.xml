@@ -32,6 +32,15 @@
     
     <url>
     
+      <loc>/project/stacked_ae/</loc>
+      <lastmod>2017-01-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/relation_network/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
@@ -114,6 +123,15 @@
     <url>
     
       <loc>/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/reddit_seq/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
