@@ -77,6 +77,15 @@
     
     <url>
     
+      <loc>/talk/imagination_rl/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/crypto_ml/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
@@ -96,6 +105,15 @@
     <url>
     
       <loc>/talk/pathtracing/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/graphs_survey/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     

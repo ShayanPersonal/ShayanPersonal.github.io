@@ -83,6 +83,15 @@
     </item>
     
     <item>
+      <title>Imagination-Augmented Agents for Deep Reinforcement Learning (2017)</title>
+      <link>/talk/imagination_rl/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/talk/imagination_rl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine learning classification over encrypted data (2015)</title>
       <link>/talk/crypto_ml/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
@@ -97,6 +106,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>/talk/pathtracing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representation Learning on Graphs: Methods and Applications (2017)</title>
+      <link>/talk/graphs_survey/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/talk/graphs_survey/</guid>
       <description></description>
     </item>
     
