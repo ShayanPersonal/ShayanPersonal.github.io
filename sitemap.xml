@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>/publication/checkered/</loc>
+      <lastmod>2018-05-18T16:56:47-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/checkered/</loc>
+      <lastmod>2018-05-18T16:54:02-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/kaggle/</loc>
       <lastmod>2017-12-21T00:00:00+00:00</lastmod>
     </url>
@@ -14,8 +32,8 @@
     
     <url>
     
-      <loc>/project/denoising/</loc>
-      <lastmod>2017-01-21T00:00:00+00:00</lastmod>
+      <loc>/project/hebbian/</loc>
+      <lastmod>2017-03-21T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -23,7 +41,7 @@
     
     <url>
     
-      <loc>/project/hebbian/</loc>
+      <loc>/project/denoising/</loc>
       <lastmod>2017-01-21T00:00:00+00:00</lastmod>
     </url>
     
@@ -158,6 +176,16 @@
     
     <url>
     
+      <loc>/publication_types/3/</loc>
+      <lastmod>2018-05-18T16:56:47-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/</loc>
       <priority>0</priority>
     </url>
@@ -168,7 +196,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2017-12-21T00:00:00+00:00</lastmod>
+      <lastmod>2018-05-18T16:54:02-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -178,6 +206,7 @@
     <url>
     
       <loc>/publication_types/</loc>
+      <lastmod>2018-05-18T16:56:47-07:00</lastmod>
       <priority>0</priority>
     </url>
     

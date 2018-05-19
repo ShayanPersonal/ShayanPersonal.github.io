@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Checkered Convolutional Neural Networks</title>
+      <link>/publication/checkered/</link>
+      <pubDate>Fri, 18 May 2018 16:56:47 -0700</pubDate>
+      
+      <guid>/publication/checkered/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Checkered Convolutional Neural Networks</title>
+      <link>/project/checkered/</link>
+      <pubDate>Fri, 18 May 2018 16:54:02 -0700</pubDate>
+      
+      <guid>/project/checkered/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kaggle Passenger Screening Challenge Solution</title>
       <link>/project/kaggle/</link>
       <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
@@ -20,20 +38,20 @@
     </item>
     
     <item>
+      <title>Hebbian Pruning</title>
+      <link>/project/hebbian/</link>
+      <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/hebbian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Denoising CNN for Realtime Path Tracing</title>
       <link>/project/denoising/</link>
       <pubDate>Sat, 21 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/project/denoising/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hebbian Pruning</title>
-      <link>/project/hebbian/</link>
-      <pubDate>Sat, 21 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/project/hebbian/</guid>
       <description></description>
     </item>
     
@@ -124,15 +142,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>/talk/twitter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reddit Seq2Seq Bot Inception</title>
-      <link>/project/reddit_seq/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/project/reddit_seq/</guid>
       <description></description>
     </item>
     

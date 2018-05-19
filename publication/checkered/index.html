@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="">
+  <meta name="description" content="We describe a new class of subsampling techniques for CNNs, termed multisampling, that significantly increases the amount of information kept by feature maps through subsampling layers. One version of our method, which we call checkered subsampling, significantly improves the accuracy of state-of-the-art architectures such as DenseNet and ResNet without any additional parameters and, remarkably, improves the accuracy of certain pretrained ImageNet models without any training or fine-tuning. We glean new insight into the nature of data augmentations and demonstrate, for the first time, that coarse feature maps are significantly bottlenecking the performance of neural networks in image classification.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/project/hebbian/">
+  <link rel="alternate" hreflang="en-us" href="/publication/checkered/">
 
   
 
@@ -82,24 +82,24 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/project/hebbian/">
+  <link rel="canonical" href="/publication/checkered/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Shayan Sadigh">
-  <meta property="og:url" content="/project/hebbian/">
-  <meta property="og:title" content="Hebbian Pruning | Shayan Sadigh">
-  <meta property="og:description" content="">
+  <meta property="og:url" content="/publication/checkered/">
+  <meta property="og:title" content="Checkered Convolutional Neural Networks | Shayan Sadigh">
+  <meta property="og:description" content="We describe a new class of subsampling techniques for CNNs, termed multisampling, that significantly increases the amount of information kept by feature maps through subsampling layers. One version of our method, which we call checkered subsampling, significantly improves the accuracy of state-of-the-art architectures such as DenseNet and ResNet without any additional parameters and, remarkably, improves the accuracy of certain pretrained ImageNet models without any training or fine-tuning. We glean new insight into the nature of data augmentations and demonstrate, for the first time, that coarse feature maps are significantly bottlenecking the performance of neural networks in image classification.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2017-03-21T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2018-05-18T16:56:47-07:00">
   
-  <meta property="article:modified_time" content="2017-03-21T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2018-05-18T16:56:47-07:00">
   
 
-  <title>Hebbian Pruning | Shayan Sadigh</title>
+  
+
+  <title>Checkered Convolutional Neural Networks | Shayan Sadigh</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -232,52 +232,53 @@
   </div>
 </nav>
 
-
-<article class="article article-project" itemscope itemtype="http://schema.org/Article">
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
 
 
-  <div class="article-container">
-
-    <div class="pub-title">
-      <h1 itemprop="name">Hebbian Pruning</h1>
-      <span class="pub-authors" itemprop="author">&nbsp;</span>
-      <span class="pull-right">
-        
+  <div class="container pub-title">
+    <h1 itemprop="name">Checkered Convolutional Neural Networks</h1>
+    <span class="pub-authors" itemprop="author">
+      
+      Shayan Sadigh, Pradeep Sen
+      
+    </span>
+    <span class="pull-right">
+      
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Hebbian%20Pruning&amp;url=%2fproject%2fhebbian%2f"
+         href="https://twitter.com/intent/tweet?text=Checkered%20Convolutional%20Neural%20Networks&amp;url=%2fpublication%2fcheckered%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=%2fproject%2fhebbian%2f"
+         href="https://www.facebook.com/sharer.php?u=%2fpublication%2fcheckered%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fproject%2fhebbian%2f&amp;title=Hebbian%20Pruning"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpublication%2fcheckered%2f&amp;title=Checkered%20Convolutional%20Neural%20Networks"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=%2fproject%2fhebbian%2f&amp;title=Hebbian%20Pruning"
+         href="http://service.weibo.com/share/share.php?url=%2fpublication%2fcheckered%2f&amp;title=Checkered%20Convolutional%20Neural%20Networks"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Hebbian%20Pruning&amp;body=%2fproject%2fhebbian%2f">
+         href="mailto:?subject=Checkered%20Convolutional%20Neural%20Networks&amp;body=%2fpublication%2fcheckered%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -285,41 +286,116 @@
 </div>
 
 
-      </span>
+    </span>
+  </div>
+
+  <div class="article-container">
+
+    
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">We describe a new class of subsampling techniques for CNNs, termed multisampling, that significantly increases the amount of information kept by feature maps through subsampling layers. One version of our method, which we call checkered subsampling, significantly improves the accuracy of state-of-the-art architectures such as DenseNet and ResNet without any additional parameters and, remarkably, improves the accuracy of certain pretrained ImageNet models without any training or fine-tuning. We glean new insight into the nature of data augmentations and demonstrate, for the first time, that coarse feature maps are significantly bottlenecking the performance of neural networks in image classification.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
+          <div class="col-xs-12 col-sm-9">
+            
+            <a href="/publication/#3">
+              Manuscript
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
     </div>
-
-    
-    <a class="btn btn-primary btn-outline" href="https://github.com/ShayanPersonal/hebbian-masks" target="_blank" rel="noopener">Go to Project Site</a>
+    <div class="visible-xs space-below"></div>
     
 
-    <div class="article-style" itemprop="articleBody">
-      
+    
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
+          <div class="col-xs-12 col-sm-9">Improving the Resolution of CNN Feature Maps with Multisampling</div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
     </div>
+    <div class="visible-xs space-below"></div>
+    
+
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+          <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+            May, 2018
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="row" style="padding-top: 10px">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+          <div class="col-xs-12 col-sm-9">
+
+            
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline" href="/project/checkered/">
+  Project
+</a>
+
+
+
+
+
+
+
+
+
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
 
     
 
 
 
 
-
-    
-    
-    
-
-    
-      
-      
-      
-      
-
-      
-      
-      
-      
-    
 
   </div>
-</article>
+</div>
 
 
 
