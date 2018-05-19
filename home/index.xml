@@ -18,7 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography I am student at University of California, Santa Barbara graduating in June with my M.S in computer science. I am mostly interested in recent work in artificial intelligence. In particular, I am interested in the design of neural networks for vision and natural language processing. In my spare time I look for inspiration in dynamical neuroscience and evolutionary algorithms, as I am interested in creating biologically plausible models. I want to make robots.</description>
+      <description>Biography I&amp;rsquo;m a student at UCSB graduating in June with my M.S in computer science. I&amp;rsquo;m interested in all things AI. I like to think about neural networks, how to design them, how to train them, and what&amp;rsquo;s wrong with them. In my spare time I follow neuroscience and genetics as I suspect natural phenomena holds the key to building our robot overlords.</description>
     </item>
     
     <item>
@@ -28,6 +28,15 @@
       
       <guid>/home/publications_selected/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>/home/news/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/news/</guid>
+      <description>May 2018: Defended M.S. project (Checkered CNNs) with committee members Pradeep Sen and William Wang. May 2018: Submitted Checkered CNNs to NIPS 2018 under the advice of Pradeep Sen. Dec 2017: Won 10th place in the $1.5 million Kaggle Passenger Screening Algorithm Challenge sponsored by the Department of Homeland Security. Jun 2017: Graduated with my B.S. in computer science from UC Santa Barbara. Jan 2017: Awarded the Glen Culler Scholarship for academic achievement.</description>
     </item>
     
     <item>
