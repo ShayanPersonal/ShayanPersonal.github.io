@@ -1,13 +1,33 @@
 <!DOCTYPE html>
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><title>Resume</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="./resume_files/casual-markdown.css">
-<script src="./resume_files/casual-markdown.js.download"></script>
+
 <style>
   h1  { font-size:200%; }
   h2  { border-bottom:1px solid grey; padding:2px; margin-bottom:15px;}
   h4  { display: inline;}
   ul  { margin-top: 6px; margin-bottom: 6px; }
+
+  .markdown code { background:#f0f0f0; color:navy; border-radius:6px; padding:2px; } 
+  .markdown pre  { background:#f0f0f0; margin:12px; border:1px solid #ddd; padding:20px 12px; border-radius:6px; } 
+  .markdown pre:hover button { display:block; }
+  .markdown pre button { display:none; position:relative; float:right; top:-16px }
+  .markdown blockquote { background:#f0f0f0; border-left:6px solid grey; padding:8px }
+  .markdown table { margin:12px; border-collapse: collapse; }
+  .markdown th    { border:1px solid grey; background:lightgrey; padding:6px; } 
+  .markdown td    { border:1px solid grey;  padding:6px; }
+  .markdown tr:nth-child(even) {  background:#f0f0f0;  }
+  .markdown ins { color:#890604 } 
+  .markdown rem { color:#198964 }
+  .toc ul  { padding: 0 12px; }
+  .toc h3  { color:#0057b7; border-bottom:1px dotted  grey }
+  .toc .H1 { list-style-type:none; font-weight:600; margin:4px; background:#eee }
+  .toc .H2 { list-style-type:none; font-weight:600; margin:4px; }
+  .toc .H3 { margin-left:2em }
+  .toc .H4 { margin-left:4em }
+  .toc .active { color:#0057b7  }
+  .toc li:hover { background:#f0f0f0 }
+
 
   /* Print-specific styles */
   @media print {
@@ -19,7 +39,7 @@
         color: #666;
       }
 
-      /* Forces all links to be black when printing/saving to PDF */
+      /* Forces all links to be blue when printing/saving to PDF */
       a, a:visited {
         color: #0000EE !important;
         text-decoration: underline !important;
@@ -45,7 +65,7 @@
 
 </style>
 </head>
-<body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display=&#39;block&#39;;" style="display: block;"><div class="markdown">
+<body>
 <p>
 </p><h1>Shayan Sadigh</h1>
 <b>Location</b>:<span style="padding-left:64px;">Santa Clara, CA</span><br>
