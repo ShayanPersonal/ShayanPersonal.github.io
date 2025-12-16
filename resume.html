@@ -8,6 +8,35 @@
   h2  { border-bottom:1px solid grey; padding:2px; margin-bottom:15px;}
   h4  { display: inline;}
   ul  { margin-top: 6px; margin-bottom: 6px; }
+
+  /* Print-specific styles */
+  @media print {
+      .print-footer {
+        display: block !important;
+        position: absolute;
+        right: 0px; 
+        font-size: 12px;
+        color: #666;
+      }
+      
+      /* Position for bottom of Page 1 (approx 10.5 inches down) */
+      .footer-p1 {
+        top: 10in; 
+      }
+
+      /* Position for bottom of Page 2 (11 inches + 10.5 inches) */
+      .footer-p2 {
+        top: 20in;
+      }
+    }
+
+    /* Hide on screen */
+    @media screen {
+      .print-footer {
+        display: none;
+      }
+    }
+
 </style>
 </head>
 <body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display=&#39;block&#39;;" style="display: block;"><div class="markdown">
@@ -30,8 +59,8 @@
 Founding AI Engineer (Feb. 2024 - Sept. 2025)
 <ul>
 <li>Built and presented demos which helped secure $12.8 million funding.</li>
-<li>Developed agentic web traffic analyzer for generating firewall signatures, multimodal content classifiers for content filtering, and agentic web browser implementing set-of-marks prompting. (<a href="https://arxiv.org/abs/2310.11441">arXiv</a>)</li>
-<li>Leveraged LLM APIs such as OpenAI, Claude, Gemini, in-house vLLM deployment, and fine-tuning APIs. Built automated pipelines on FastAPI, Flask, MongoDB, MCP, and deployed Docker containers to Google Cloud, AWS, Azure.</li>
+<li>Developed and deployed agentic web traffic analyzer for generating firewall signatures, multimodal content classifiers for content filtering, and agentic web browser for web crawling.</li>
+<li>Leveraged OpenAI, Claude, Gemini, in-house vLLM deployment, and fine-tuning. Built pipelines on FastAPI, Flask, MongoDB, MCP, and deployed Docker containers to Google Cloud, AWS, Azure.</li>
 </ul>
 <p>
   <h4>Santa Barbara City College<br></h4>
@@ -61,7 +90,7 @@ Deep Learning Software Engineer II (Mar. 2020 - Dec. 2020)
 Senior Software Engineer (Oct. 2019 - Mar. 2020) <br> 
 Software Engineer (Sep. 2018 - Sep. 2019) <br>
 <ul>
-<li>Awards: Project of the Quarter - Machine Learning Antivirus (continued below)</li>
+<li>Awards: Project of the Quarter - Machine Learning Antivirus</li>
 <li>Proposed and implemented new stack-based pattern matching algorithm in C which improved threat coverage in PAN-OS firewall, resulting in higher scores on 3rd-party benchmarks.</li>
 <li>Solved many long-standing customer tickets and feature requests from data science, product managers, and threat research. Quote from VP of Engineering: "One-man army."</li>
 <li>Made major contributions to industry-first machine learning features - integrated inline machine learning models into resource-constrained firewall in C.</li>
@@ -98,4 +127,9 @@ Software Engineer (Sep. 2018 - Sep. 2019) <br>
 <li>Performing and writing piano music since early childhood.</li>
 <li>Expert DDR player and ranked #1 in online arena shooter.</li>
 <li>Languages: English (native), Farsi (native, but very rusty)</li>
-</ul></div></body></html>
+</ul>
+
+<div class="print-footer footer-p1">Page 1/2</div>
+<div class="print-footer footer-p2">Page 2/2</div>
+
+</div></body></html>
